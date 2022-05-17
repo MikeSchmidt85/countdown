@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    color: yellow;
+}
+
+h1{
+    text-align: center;
+    padding-top: 400px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/12/29/18/44/background-1939128_1280.jpg");
+    background-position: center;
+
+}
+
+#background{
+    background-size: cover;
+}
+
+.countdown_container{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+    padding: 10px;
+    font-size:50px ;
+}
+
+.midd{
+    padding: 10px;
+    font-size:50px ;
+}
+
+
